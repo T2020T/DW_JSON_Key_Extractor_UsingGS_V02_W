@@ -1,0 +1,5 @@
+{
+  "name": "Copy of JSON_Key_Extractor_UsingGS_V02",
+  "description": "A powerful tool to extract all values for a specific key from any JSON data, including nested structures. Users can input JSON via text or file upload, select a key, and export the results as text, CSV, or PDF, or print them directly.",
+  "requestFramePermissions": []
+}
